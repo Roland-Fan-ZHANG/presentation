@@ -11,14 +11,8 @@ url : https://roland-fan-zhang.github.io/litdhospi
 - Pour modifier les slides (les markdowns) ce sera dans le dossier `_posts`
 
 **IMPORTANT**
-
 * Les noms de fichiers doivent commencer par un format **année-mois-jour valide** (par exemple : `1000-01-01-example.md`).
-
 * Les **années** seront affichées **horizontalement**.
-
 * Les **mois** seront affichés sous forme de **navigation verticale** pour une année donnée.
-
 * Les **pages de présentation** seront affichées **dans l’ordre chronologique**.
-
 * **GitHub Pages** générera/mettra à jour automatiquement le site web avec la présentation (merci d’attendre jusqu’à **1 minute** le temps que ça publish).
-
